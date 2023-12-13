@@ -3,7 +3,7 @@ GUI tool for analyzing and quantifying the vascularization within a given ultras
 
 PanGUI_1_4(new).mlapp - The main GUI file.
 PanGUI_TGC.m - Time Gain Compensation function (Gamma correction).
-PanGUI_RingSegImg.m - ?
+PanGUI_RingSegImg.m - Segments the image into its given rings.
 PanGUI_CC.m - Cross-Correlation function (frames selection).
 PanGUI_Calc.m - Calculates the rings' values and temporal properties.
 PanGUI_RingsPlot.m - Creates .jpg files from the rings images.
